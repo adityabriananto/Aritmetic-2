@@ -7,6 +7,9 @@ import arithmetic.model.ArithmeticOperation;
 
 public class Main {
 	public static void main(String[] args) {
+		
+		//tes
+		
 		ArithmeticOperation[] operations = {new Addition()};
 		Scanner sc = new Scanner(System.in);
 		double a, b, result = Double.NaN;
